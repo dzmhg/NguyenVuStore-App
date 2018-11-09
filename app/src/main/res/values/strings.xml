@@ -1,0 +1,10 @@
+<resources>
+    
+    <string name="app_name">NguyenVuStore</string>
+    <string name="open">Mở</string>
+    <string name="close">Đóng</string>
+    <string name="facebook_app_id">229200581191545</string>
+    <string name="fb_login_protocol_scheme">fb229200581191545</string>
+    <string name="google_plus_client">839000498018-roj8lrbic398pabn0bj8hrl1r6odr4gg.apps.googleusercontent.com</string>
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "839000498018",
+    "firebase_url": "https://nguyenvustore-1529888980500.firebaseio.com",
+    "project_id": "nguyenvustore-1529888980500",
+    "storage_bucket": "nguyenvustore-1529888980500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839000498018:android:655edd91f82486bf",
+        "android_client_info": {
+          "package_name": "quyen.nguyenvustore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839000498018-hobtpnvq0kf4qk1eou80c38nia1s2k47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "quyen.nguyenvustore",
+            "certificate_hash": "595377e178ea24f7c21764cf4ddcebc6eb9d5d58"
+          }
+        },
+        {
+          "client_id": "839000498018-jhukfbki8ci0iil8hflb922eiom0cpgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh1qEYHWHFHbmVF87TtnCtsWAVWT-uST0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839000498018-jhukfbki8ci0iil8hflb922eiom0cpgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/backgr"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:paddingTop="50dp"
+        android:paddingRight="100dp"
+        android:paddingLeft="100dp"
+        android:orientation="vertical"
+        android:background="#80000000"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            app:srcCompat="@android:drawable/star_big_on"
+            />
+
+        <TextView
+            android:textSize="16sp"
+            android:textColor="#FF0202"
+            android:textAlignment="center"
+            android:text="NguyenVu Lead Never Follow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            app:srcCompat="@drawable/iconmoney"
+            android:layout_gravity="center"
+            android:paddingTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textSize="16sp"
+            android:textColor="#FF0202"
+            android:textAlignment="center"
+            android:text="Tư vấn lắp đặt PC, phòng máy, camera"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            app:srcCompat="@drawable/iconbag"
+            android:paddingTop="20dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_gravity="center"
+            android:textSize="16sp"
+            android:textColor="#FF0202"
+            android:textAlignment="center"
+            android:text="Freeship nội thành"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:paddingBottom="10dp"
+        android:layout_gravity="bottom|center"
+        app:srcCompat="@drawable/logostore"
+        android:layout_width="150dp"
+        android:layout_height="160dp" />
+</FrameLayout>
